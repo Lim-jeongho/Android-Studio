@@ -1,1 +1,2 @@
-Android Studio 를 사용하여 어플 만들기
+# Android-Studio 연습예제
+
