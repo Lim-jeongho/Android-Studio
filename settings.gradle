@@ -1,12 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-rootProject.name = "Ljh_3"
+rootProject.name = "Ljh_9"
 include ':app'
-=======
-rootProject.name = "Ljh_6"
-include ':app'
->>>>>>> 76998d8 (LJH_6)
-=======
-rootProject.name = "Ljh_7"
-include ':app'
->>>>>>> 9932119 (LJH_7)
