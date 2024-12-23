@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ea4da55-b2ea-461b-8852-cc0c07816441" name="Default Changelist" comment="" />
+    <list default="true" id="17c796c0-3be1-4560-99db-609d6652f668" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +21,16 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ProjectId" id="1yrfp3c5pzvl0bKGW1OtvpQrths" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21zl6f80tSslHVKVoxf2b7RhOwS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ljh_5" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
@@ -40,7 +50,7 @@
       </method>
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="MainActivity.app" />
+      <module name="Ljh_9.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -101,42 +111,30 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2ea4da55-b2ea-461b-8852-cc0c07816441" name="Default Changelist" comment="" />
-      <created>1633014809122</created>
+      <changelist id="17c796c0-3be1-4560-99db-609d6652f668" name="Default Changelist" comment="" />
+      <created>1638951622665</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1633014809122</updated>
+      <updated>1638951622665</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1633015976437">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638961567767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.214.1920.1040@0.0.1920.1040" timestamp="1633015976437" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1633014881813">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.214.1920.1040@0.0.1920.1040" timestamp="1638961567767" />
+    <state x="808" y="264" width="841" height="490" key="AndroidCreateResourceFileDialog" timestamp="1639384816470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.214.1920.1040@0.0.1920.1040" timestamp="1633014881813" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1633018866670">
+    <state x="808" y="264" width="841" height="490" key="AndroidCreateResourceFileDialog/0.0.1920.1040/-1920.214.1920.1040@0.0.1920.1040" timestamp="1639384816470" />
+    <state x="803" y="309" key="AndroidCreateXmlResourceDialog" timestamp="1638956961553">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.214.1920.1040@0.0.1920.1040" timestamp="1633018866670" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1633018866670">
+    <state x="803" y="309" key="AndroidCreateXmlResourceDialog/0.0.1920.1040/-1920.214.1920.1040@0.0.1920.1040" timestamp="1638956961553" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1639376680896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.214.1920.1040@0.0.1920.1040" timestamp="1633018866670" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1633018866670">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.214.1920.1040@0.0.1920.1040" timestamp="1633018866670" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1633018866670">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.214.1920.1040@0.0.1920.1040" timestamp="1633018866670" />
-    <state x="466" y="122" key="SettingsEditor" timestamp="1633016808765">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="466" y="122" key="SettingsEditor/0.0.1920.1040/-1920.214.1920.1040@0.0.1920.1040" timestamp="1633016808765" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.214.1920.1040@0.0.1920.1040" timestamp="1639376680896" />
   </component>
 </project>
